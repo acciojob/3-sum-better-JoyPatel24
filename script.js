@@ -24,7 +24,7 @@ function threeSum(arr, target) {
         right--; // Move the right pointer to decrease the sum
       }
     }
-
+  }
 }
 
 module.exports = threeSum;
